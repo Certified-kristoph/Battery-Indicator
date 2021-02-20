@@ -1,4 +1,4 @@
-# battery_app
+# Flutter Battery Indicator App
 
 A new Flutter project.
 
